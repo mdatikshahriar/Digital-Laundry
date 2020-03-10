@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487133552812",
+    "firebase_url": "https://pathetic-43b28.firebaseio.com",
+    "project_id": "pathetic-43b28",
+    "storage_bucket": "pathetic-43b28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487133552812:android:6fc1a080a2938fcb",
+        "android_client_info": {
+          "package_name": "team.orion.pathetic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487133552812-ul0pcbrluul4tno673p29s0dlp45s945.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team.orion.pathetic",
+            "certificate_hash": "e013f3f40ed453263146e60ddffb268aa9b9b230"
+          }
+        },
+        {
+          "client_id": "487133552812-805uh8qm3qanpq37bp5e8fhmb9cp7o3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAthzztPBStc9xjLlGJc2ByazXDLS90m74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487133552812-805uh8qm3qanpq37bp5e8fhmb9cp7o3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="motto">Your laundry and dry cleaning</string>
+    <string name="motto_line2">never felt this easy.</string>
+    <string name="pickup">Schedule Pickup</string>
+    <string name="hand_clothes">Hand clothes to driver</string>
+    <string name="relax">Relax and enjoy!</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
